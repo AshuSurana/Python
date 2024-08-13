@@ -1,4 +1,4 @@
-#5 Optional Lab: a simple command line game,
+#A simple command line game, Number Gussseing
 import random
 
 digits=list(range(10))
