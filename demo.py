@@ -1,4 +1,4 @@
-#A simple command line game, Number Gussseing
+#A simple command line game, Number Guessing
 import random
 
 digits=list(range(10))
